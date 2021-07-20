@@ -31,13 +31,13 @@ Using the main feature of Blockchain, which are traceability, security, and dece
 
 Here how our blockchain works:
 
-1. Grape-grower - First user, will store the information about the wine on the blockchain, using the mobile app. They can also upload the pictures of the wine, which are proccessed to the Blockchain, to make informed decision about the quality of the wine.
+1. Grape-grower - First user, will store the information about the grape on the blockchain, using the mobile app. They can also upload the pictures of the wine, which are proccessed to the Blockchain, to make informed decision about the quality of the grape.
 
-2. Producers - after receiving wine items from the Farmers, the producers can then store the information related to the refining of wine on the public blockchain. Information stored on the Blockchain will help retailers and consumers verify the authenticity of the wine. 
+2. Producers - after receiving grape from the Grape-grower, the producers can then store the information related to the refining of the wine on the public blockchain. Information stored on the Blockchain will help retailers and consumers verify the quality and authenticity of the wine. 
 
 3. Distributors - Once the wine is processed, the wine will be distributed, where the distributors will update the transportation details on the blockchain. The information related to temperature or real-time location of the wine items will also be sent to the blockchain.
 
-4. Distributors/Wholesalers - From source to destination, the user is able to capture all the information to ensure the wine is safe or not by back tracing the wine items from the Blockchain.
+4. Consumers - From source to destination, the user is able to capture all the information to ensure the wine is safe or not by back tracing the wine items from the Blockchain.
 
 
 ---
