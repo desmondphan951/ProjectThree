@@ -1,6 +1,6 @@
 
 
-![](Images/winechainproject.jpg.jpg)
+![](Images/winechainproject.jpg)
 
 # Project Three - Blockchain
 
