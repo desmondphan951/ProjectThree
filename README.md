@@ -30,11 +30,13 @@ Here how our blockchain works:
 
 1. Farmers - First user, will store the information about the food on the blockchain, using the mobile app. They can also upload the pictures of the food, which are proccessed to the Blockchain, to make informed decision about the quality of the food.
 
-2. Producers - after receiving food items from the Farmers, the producers can then store the information related to the refining of food on the public blockchain. Information stored on the network will help retailers and consumers verify the authenticity of the food. 
+2. Producers - after receiving food items from the Farmers, the producers can then store the information related to the refining of food on the public blockchain. Information stored on the Blockchain will help retailers and consumers verify the authenticity of the food. 
 
 3. Distributors - Once the food is processed, the food will be distributed, where the distributors will update the transportation details on the blockchain. The information related to temperature or real-time location of the food items will also be sent to the blockchain.
 
-4.Retailers -  
+4.Retailers - After the food is delivered to retailer,  
+
+5.Consumers - From source to destination, the user is able to capture all the information to ensure the food is safe or not by back tracing the food items from the Blockchain.
 
 [blockchain_map]<img width="842" alt="Screen Shot 2021-07-20 at 7 46 20 pm" src="https://user-images.githubusercontent.com/76719561/126306937-e93da2d2-2df8-44c8-89a2-621dc11f8588.png">
 
