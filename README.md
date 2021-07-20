@@ -7,7 +7,6 @@
 
 ---
 
-<<<<<<< HEAD
 # Project Outline 
 
 (Food Supply Chain Blockchain)
@@ -17,27 +16,36 @@ One of the most common question whenever we consumer any food product is "Where 
 Our group (Group Name) main objective is to provide an innovative solution using Blockchain to tackle this issue. Our main idea is to connect these following stakeholders directly, include:
 * Farmers
 * Producers
-* Distributors
+* Distributors/Wholesalers
 * Retailers
-* The Consumers
+* End Users/the Consumers
 
 Using the main feature of Blockchain, which are traceability, security, and decentralisation when dealing with data around the food supply chain. Transactions that have been carried out will be store to different nodes where all users are able to access and view it, which certainly cereate a  transparent environment that no parties are able to intervene it.
   
- ---
+---
 
 # Project Details
-=======
-# Project Outline
- 
----
-Blockchain in Food Industry - create a contract provide Food Supply Chain Provenance
->>>>>>> 954dfc90d902033626d85e2ded0b6dea7daf542b
 
+Here how our blockchain works:
+
+1. Farmers - First user, will store the information about the food on the blockchain, using the mobile app. They can also upload the pictures of the food, which are proccessed to the Blockchain, to make informed decision about the quality of the food.
+
+2. Producers - after receiving food items from the Farmers, the producers can then store the information related to the refining of food on the public blockchain. Information stored on the network will help retailers and consumers verify the authenticity of the food. 
+
+3. Distributors - Once the food is processed, the food will be distributed, where the distributors will update the transportation details on the blockchain. The information related to temperature or real-time location of the food items will also be sent to the blockchain.
+
+4.Retailers -  
+
+[blockchain_map]<img width="842" alt="Screen Shot 2021-07-20 at 7 46 20 pm" src="https://user-images.githubusercontent.com/76719561/126306937-e93da2d2-2df8-44c8-89a2-621dc11f8588.png">
+
+
+---
+# Project Key Ideas:
+
+Blockchain in Food Industry - create a Smart Contracts to support Food Supply Chain Provenance
+ 
 1. Blockchain In Food Industry: Food Traceability And Safety
 
-<<<<<<< HEAD
- 
-=======
 2 . Key Issues for food indsutry 
   * lack of transparency in labeling 
   * counterfeit food products 
@@ -52,10 +60,7 @@ Blockchain in Food Industry - create a contract provide Food Supply Chain Proven
 
 4. the contract - provide Food Supply Chain Provenance 
 
-how it work 
-
+Open for Dicussion (Optional):
 * Hyperledger Fabric - how it applly in food blockchain industry 
 
 
-<img width="842" alt="Screen Shot 2021-07-20 at 7 46 20 pm" src="https://user-images.githubusercontent.com/76719561/126306937-e93da2d2-2df8-44c8-89a2-621dc11f8588.png">
->>>>>>> 954dfc90d902033626d85e2ded0b6dea7daf542b
