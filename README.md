@@ -21,7 +21,7 @@ Blockchain in Food Industry - create a contract provide Food Supply Chain Proven
   * ...
 
 3. How Blockchain Works In food industry 
- * importing food traceabilitu 
+ * importing food traceability
  * imporved inventory management 
  * ensuring food safety 
  * ... 
