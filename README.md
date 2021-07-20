@@ -7,10 +7,24 @@
 
 ---
 
-# Project Outline
- 
----
+# Project Outline 
+
+(Food Supply Chain Blockchain)
+
+One of the most common question whenever we consumer any food product is "Where does the food come from ?" Traditional approach is often inefficiencies and rigidity within the industry that makes it difficult for users to track the original source of food. Further challenges include food fraud, foodborne illness, or illegal production. These biggest challenges that are facing food supply chain today can be overcomed by the implementation of Blockchain technology.
+
+Our group (Group Name) main objective is to provide an innovative solution using Blockchain to tackle this issue. Our main idea is to connect these following stakeholders directly, include:
+* Farmers
+* Producers
+* Distributors
+* Retailers
+* The Consumers
+
+Using the main feature of Blockchain, which are traceability, security, and decentralisation when dealing with data around the food supply chain. Transactions that have been carried out will be store to different nodes where all users are able to access and view it, which certainly cereate a  transparent environment that no parties are able to intervene it.
+  
+ ---
+
+# Project Details
 
 
  
-Create a new coin base on our platform ( blockchain in food industry ) - (What if we were to make each and every step of the process from the time the food grows on the farm to the time it reaches the marketplace transparent. What happens if the blockchain gets implemented to maintain food records remember that the blockchain is an open ledger and the data in it is open to everyone so there’s no central authority taking charge of the records this means that it would be possible for consumers to track the origin of all the food they purchase from the moment your salmon was brought to shore to when it was laid out on the counter in front of you. You would track where it was caught. When it was transported and how long it’s been in the store )
