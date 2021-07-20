@@ -1,9 +1,13 @@
-# ProjectThree
+[](Images/Winechainproject.png)
 
- Project 3 Monash Fintech Bootcamp
+# Project Three - Blockchain
+
  Group Name: "WineChain - Stop counterfeit wine and spirits distribution"
 
- Group members: Shanshan Zhang, Sreeni, Cuong Phan
+ Group members:
+* Shanshan Zhang
+* Sreeni
+* Cuong Phan
 
 ---
 
