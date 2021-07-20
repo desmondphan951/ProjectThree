@@ -7,7 +7,6 @@
 
 ---
 
-<<<<<<< HEAD
 # Project Outline 
 
 (Food Supply Chain Blockchain)
@@ -27,10 +26,11 @@ Using the main feature of Blockchain, which are traceability, security, and dece
 
 # Project Details
 =======
-# Project Outline
- 
----
+
+# Project Scope
+
 Blockchain in Food Industry - create a contract provide Food Supply Chain Provenance
+ 
 >>>>>>> 954dfc90d902033626d85e2ded0b6dea7daf542b
 
 1. Blockchain In Food Industry: Food Traceability And Safety
