@@ -10,7 +10,21 @@
 # Project Outline
  
 ---
+Blockchain in Food Industry - create a contract provide Food Supply Chain Provenance
 
 
- 
-Create a new coin base on our platform ( blockchain in food industry ) - (What if we were to make each and every step of the process from the time the food grows on the farm to the time it reaches the marketplace transparent. What happens if the blockchain gets implemented to maintain food records remember that the blockchain is an open ledger and the data in it is open to everyone so there’s no central authority taking charge of the records this means that it would be possible for consumers to track the origin of all the food they purchase from the moment your salmon was brought to shore to when it was laid out on the counter in front of you. You would track where it was caught. When it was transported and how long it’s been in the store )
+1 . Key Issues for food indsutry 
+  * lack of transparency in labeling 
+  * counterfeit food products 
+  * poor food safety
+  * ...
+
+2. How Blockchain Works In food industry 
+ * importing food traceabilitu 
+ * imporved inventory management 
+ * ensuring food safety 
+ * ... 
+
+3. the contract - provide Food Supply Chain Provenance 
+how it work 
+<img width="842" alt="Screen Shot 2021-07-20 at 7 46 20 pm" src="https://user-images.githubusercontent.com/76719561/126306937-e93da2d2-2df8-44c8-89a2-621dc11f8588.png">
