@@ -37,7 +37,7 @@ Here how our blockchain works:
 
 3. Distributors - Once the wine is processed, the wine will be distributed, where the distributors will update the transportation details on the blockchain. The information related to temperature or real-time location of the wine items will also be sent to the blockchain.
 
-4.Distributors/Wholesalers - From source to destination, the user is able to capture all the information to ensure the wine is safe or not by back tracing the wine items from the Blockchain.
+4. Distributors/Wholesalers - From source to destination, the user is able to capture all the information to ensure the wine is safe or not by back tracing the wine items from the Blockchain.
 
 
 ---
