@@ -1,4 +1,4 @@
-[](Images/winechainproject.jpg)
+
 
 # Project Three - Blockchain
 
@@ -10,6 +10,8 @@
 * Cuong Phan
 
 ---
+
+[](Images/winechainproject.jpg)
 
 # Project Outline 
 
