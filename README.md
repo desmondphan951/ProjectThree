@@ -9,11 +9,9 @@
 
 # Project Outline 
 
-(Wine Supply Chain Blockchain)
-
 One of the most common question whenever we consumer any wine product is "Where does the wine come from ?" Traditional approach is often inefficiencies and rigidity, which makes it difficult for users to track the original source of wine. Further challenges include wine counterfeit or illegal production that are negatively impact the industry: It is estimated that 20% of all wine currently circulating the globe is fake (which is in line with all luxury goods) and it’s not just rare wines that are impacted, some ‘commercial’, household labels and wines are now also being counterfeited. These biggest challenges that are facing wine supply chain today can be overcomed by the implementation of Blockchain technology.
 
-Our group (Group Name) main objective is to provide an innovative solution using Blockchain to tackle this issue. Our main idea is to connect these following stakeholders directly, include:
+Our group, WineChain, main objective is to provide an innovative solution using Blockchain to tackle this issue. Our main idea is to connect these following stakeholders directly, include:
 * Grape-grower
 * Producers
 * Distributors/Wholesalers
@@ -35,9 +33,15 @@ Here how our blockchain works:
 
 4.Distributors/Wholesalers - From source to destination, the user is able to capture all the information to ensure the wine is safe or not by back tracing the wine items from the Blockchain.
 
-[blockchain_map]<img width="842" alt="Screen Shot 2021-07-20 at 7 46 20 pm" src="https://user-images.githubusercontent.com/76719561/126306937-e93da2d2-2df8-44c8-89a2-621dc11f8588.png">
 
 ---
 
-# 
+# Development Environment
+
+* Ganache
+* Remix
+
+---
+# Other
+
 
