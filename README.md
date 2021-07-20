@@ -11,7 +11,7 @@
 
 ---
 
-[](Images/winechainproject.jpg)
+![](Images/winechainproject.jpg)
 
 # Project Outline 
 
