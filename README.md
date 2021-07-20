@@ -1,5 +1,7 @@
 
 
+![](Images/winechainproject.jpg)
+
 # Project Three - Blockchain
 
  Group Name: "WineChain - Stop counterfeit wine and spirits distribution"
@@ -10,8 +12,6 @@
 * Cuong Phan
 
 ---
-
-![](Images/winechainproject.jpg)
 
 # Project Outline 
 
