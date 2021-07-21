@@ -8,7 +8,7 @@
 
  Group members:
 * Shanshan Zhang
-* Sreeni
+* Sreeni Kalva
 * Cuong Phan
 
 ---
