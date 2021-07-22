@@ -18,7 +18,7 @@
 One of the most common question whenever we consumer any wine product is "Where does the wine come from ?" Traditional approach is often inefficiencies and rigidity, which makes it difficult for users to track the original source of wine. Further challenges include wine counterfeit or illegal production that are negatively impact the industry: It is estimated that 20% of all wine currently circulating the globe is fake (which is in line with all luxury goods) and it’s not just rare wines that are impacted, some ‘commercial’, household labels and wines are now also being counterfeited. These biggest challenges that are facing wine supply chain today can be overcomed by the implementation of Blockchain technology.
 
 Our group, WineChain, main objective is to provide an innovative solution using Blockchain to tackle this issue. Our main idea is to connect these following stakeholders directly, include:
-* Grape-grower
+* Grape-growers
 * Producers
 * Distributors/Wholesalers
 * Consumers (End-Users)
