@@ -15,13 +15,13 @@
 
 # Project Outline 
 
-One of the most common question whenever we consumer any wine product is "Where does the wine come from ?" Traditional approach is often inefficiencies and rigidity, which makes it difficult for users to track the original source of wine. Further challenges include wine counterfeit or illegal production that are negatively impact the industry: It is estimated that 20% of all wine currently circulating the globe is fake (which is in line with all luxury goods) and it’s not just rare wines that are impacted, some ‘commercial’, household labels and wines are now also being counterfeited. These biggest challenges that are facing wine supply chain today can be overcomed by the implementation of Blockchain technology.
+One of the most common question whenever we consume any wine product is "Where does the wine come from ?" Traditional approach is often inefficiencies and rigidity, which makes it difficult for users to track the original source of wine. Further challenges include wine counterfeit or illegal production that are negatively impact the industry: It is estimated that 20% of all wine currently circulating the globe is fake (which is in line with all luxury goods) and it’s not just rare wines that are impacted, some ‘commercial’, household labels and wines are now also being counterfeited. These biggest challenges that are facing wine supply chain today can be overcomed by the implementation of Blockchain technology.
 
 Our group, WineChain, main objective is to provide an innovative solution using Blockchain to tackle this issue. Our main idea is to connect these following stakeholders directly, include:
 
 * Wine Producers
 * Export Quality Inspectors
-* Custom Officer
+* Customs Officers
 * Retailers (End Users)
 
 Using the main feature of Blockchain, which are traceability, security, and decentralisation when dealing with data around the wine supply chain. Transactions that have been carried out will be store to different nodes where all users are able to access and view it, which certainly cereate a  transparent environment that no parties are able to intervene it.
@@ -30,21 +30,22 @@ Using the main feature of Blockchain, which are traceability, security, and dece
 
 # Project Details
 
-Here how our blockchain works:
+Here is how our Blockchain works:
 
-1. Grape-grower - First user, will store the information about the grape on the blockchain, using the mobile app. They can also upload the pictures of the wine, which are proccessed to the Blockchain, to make informed decision about the quality of the grape.
+1. Wine Producers - The first user will store the information about the batch of wines to be exported on the Blockchain. They can also upload the pictures of the wine, which are processed to the Blockchain, to make an informed decision about the quality of the wine.
 
-2. Producers - after receiving grape from the Grape-grower, the producers can then store the information related to the refining of the wine on the public blockchain. Information stored on the Blockchain will help retailers and consumers verify the quality and authenticity of the wine. 
+2. Export Quality Inspectors - Assuming the batch of wines to be exported in Australia, the inspectors will examine the quality and then store the information related to the quality of the wine on the public Blockchain. Data stored on the Blockchain will help retailers and consumers later verify the quality and authenticity of the wine.
 
-3. Distributors - Once the wine is processed, the wine will be distributed, where the distributors will update the transportation details on the blockchain. The information related to temperature or real-time location of the wine items will also be sent to the blockchain.
+3. Customs Officers - As the batch of wines has been imported to China, the customs officer will verify the origination of this batch of wine and its quality and authenticity. Custom Officer will later register the information of the current location and transportation details on the Blockchain. 
 
-4. Consumers - From source to destination, the user is able to capture all the information to ensure the wine is safe or not by back tracing the wine items from the Blockchain.
+4. Retailers (End Users) - From source to destination, the user can capture all the information to ensure the wine is authentic or not by backtracing the wine items from the Blockchain.
+ 
 
 ---
 
 # Presentation
 
-[Link: TBU]
+https://docs.google.com/presentation/d/1O9RXw_nOBEApSPTjTWBhRXDkZobvYPJuv-kPtP5XMUQ/edit?usp=sharing
 
 ---
 
