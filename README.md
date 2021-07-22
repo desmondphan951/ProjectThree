@@ -40,6 +40,8 @@ Here is how our Blockchain works:
 
 4. Retailers (End Users) - From source to destination, the user can capture all the information to ensure the wine is authentic or not by backtracing the wine items from the Blockchain.
  
+ (To be edited later)
+![](Images/projectidea.jpg)
 
 ---
 
