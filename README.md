@@ -1,12 +1,10 @@
 
 
-![](Images/winechainproject.jpg)
+![](Images/logo.jpg)
 
 # Project Three - Blockchain
 
  Group Name: "WineChain - Stop counterfeit wine and spirits distribution"
-
-![](Images/logo.jpg)
 
  Group members:
 * Shanshan Zhang
