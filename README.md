@@ -44,7 +44,6 @@ The whole process of the wine supply chain is complex, including growing, produc
 
 4. Retailers -  the retailer can capture all the information to ensure the wine is authentic or not by backtracing the wine items from the Blockchain. This allows retailers to improvise their inventory-tracking system and also optimise their payment between members of the supply chain. Winechain's objective is attained, as we would be able to reduce the wine counterfeit issue through transperency of provenance, as well as promote the originator of the product. 
 
- (To be edited later)
 ![](Images/projectidea.jpg)
 
 ---
