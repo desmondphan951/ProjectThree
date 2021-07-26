@@ -71,4 +71,10 @@ https://docs.google.com/presentation/d/1O9RXw_nOBEApSPTjTWBhRXDkZobvYPJuv-kPtP5X
 ---
 # Other
 
+## Additional Readings
 
+* Why It’s So Hard to Tell If a $100,000 Bottle of Wine Is Fake: https://www.bloomberg.com/news/articles/2017-09-06/why-it-s-so-hard-to-tell-if-a-100-000-bottle-of-wine-is-fake
+
+* Blockchain technology for supply chains—A must or a maybe?: https://www.mckinsey.com/business-functions/operations/our-insights/blockchain-technology-for-supply-chainsa-must-or-a-maybe
+
+* What are the implications of blockchain technology for food & agriculture?: https://www.linkedin.com/pulse/what-implications-blockchain-technology-agriculture-aidan-connolly/
