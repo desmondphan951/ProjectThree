@@ -22,8 +22,8 @@ Our group, WineChain, main objective is to provide an innovative solution using 
 * Wine Producers
 * Export Quality Inspectors
 * Customs Officers
-* Retailers 
-* Consumers (End Users)
+* Retailers (End Users)
+
 
 Using the main feature of Blockchain, which are traceability, security, and decentralisation when dealing with data around the wine supply chain. Transactions that have been carried out will be store to different nodes where all users are able to access and view it, which certainly cereate a  transparent environment that no parties are able to intervene it.
 
@@ -42,10 +42,8 @@ The whole process of the wine supply chain is complex, including growing, produc
 
 3. Customs Officers - As the batch of wines has been imported to China, the customs officer will verify the origination of this batch of wine and its quality and authenticity. Custom Officer will later register the information of the current location and transportation details on the Blockchain. 
 
-4. Retailers -  the retailer can capture all the information to ensure the wine is authentic or not by backtracing the wine items from the Blockchain. This allows retailers to improvise their inventory-tracking system and also optimise their payment between members of the supply chain.
+4. Retailers -  the retailer can capture all the information to ensure the wine is authentic or not by backtracing the wine items from the Blockchain. This allows retailers to improvise their inventory-tracking system and also optimise their payment between members of the supply chain. From source to destination, the consumer is allow the explore the story of the wine, from vineyard to glass. Winechain's objective is attained, as we would be able to reduce the wine counterfeit issue through transperency of provenance, as well as promote the originator of the product. 
 
-5. Consumers (End Users) - From source to destination, the consumer is allow the explore the story of the wine, from vineyard to glass. Winechain's objective is attained, as we would be able to reduce the wine counterfeit issue through transperency of provenance, as well as promote the originator of the product. 
- 
  (To be edited later)
 ![](Images/projectidea.jpg)
 
