@@ -47,6 +47,8 @@ Here is how our Blockchain works:
 
 Further Developments:
 
+* Issuing Token: (TBU)
+
 * Payment System: a payment system that utilize WineChain token in order to incentivize the stakeholders. 
 
 ---
