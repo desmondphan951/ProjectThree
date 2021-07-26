@@ -45,6 +45,12 @@ Here is how our Blockchain works:
 
 ---
 
+Further Developments:
+
+* Payment System:
+
+** a payment system that utilize WineChain token in order to incentivize the stakeholders.
+
 # Presentation
 
 https://docs.google.com/presentation/d/1O9RXw_nOBEApSPTjTWBhRXDkZobvYPJuv-kPtP5XMUQ/edit?usp=sharing
