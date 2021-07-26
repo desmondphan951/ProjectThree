@@ -22,7 +22,8 @@ Our group, WineChain, main objective is to provide an innovative solution using 
 * Wine Producers
 * Export Quality Inspectors
 * Customs Officers
-* Retailers (End Users)
+* Retailers 
+* Consumers (End Users)
 
 Using the main feature of Blockchain, which are traceability, security, and decentralisation when dealing with data around the wine supply chain. Transactions that have been carried out will be store to different nodes where all users are able to access and view it, which certainly cereate a  transparent environment that no parties are able to intervene it.
 
@@ -30,15 +31,20 @@ Using the main feature of Blockchain, which are traceability, security, and dece
 
 # Project Details
 
-Here is how our Blockchain works:
+At the most stage of this supply chain, there will be a need to transfer data or accreditations. Therefore, this presents a tremendous opportunity for blockchain solutions to combine with other technologies - such as the Internet of Things (IoT) - to generate efficiencies and remove red tape.
 
-1. Wine Producers - The first user will store the information about the batch of wines to be exported on the Blockchain. They can also upload the pictures of the wine, which are processed to the Blockchain, to make an informed decision about the quality of the wine.
+The whole process of the wine supply chain is complex, including growing, producing and transporting the wine, with multiple stakeholders involved in the process. Therefore, the adaptation of Winechain technology will undoubtedly outweigh the traditional approach in the long term. Key segments of the supply chain are described below:
+
+
+1. Wine Producers - The first user will store the information about the batch of wines to be exported on the Blockchain. They can also upload the pictures of the wine, which are processed to the Blockchain, to make an informed decision about the quality of the wine. The data could include the quality of soil composition and temperature and also the cultivation methodology.
 
 2. Export Quality Inspectors - Assuming the batch of wines to be exported in Australia, the inspectors will examine the quality and then store the information related to the quality of the wine on the public Blockchain. Data stored on the Blockchain will help retailers and consumers later verify the quality and authenticity of the wine.
 
 3. Customs Officers - As the batch of wines has been imported to China, the customs officer will verify the origination of this batch of wine and its quality and authenticity. Custom Officer will later register the information of the current location and transportation details on the Blockchain. 
 
-4. Retailers (End Users) - From source to destination, the user can capture all the information to ensure the wine is authentic or not by backtracing the wine items from the Blockchain.
+4. Retailers -  the retailer can capture all the information to ensure the wine is authentic or not by backtracing the wine items from the Blockchain. This allows retailers to improvise their inventory-tracking system and also optimise their payment between members of the supply chain.
+
+5. Consumers (End Users) - From source to destination, the consumer is allow the explore the story of the wine, from vineyard to glass. Winechain's objective is attained, as we would be able to reduce the wine counterfeit issue through transperency of provenance, as well as promote the originator of the product. 
  
  (To be edited later)
 ![](Images/projectidea.jpg)
