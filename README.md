@@ -40,7 +40,7 @@ The whole process of the wine supply chain is complex, including growing, produc
 
 2. Export Quality Inspectors - Assuming the batch of wines to be exported in Australia, the inspectors will examine the quality and then store the information related to the quality of the wine on the public Blockchain. Data stored on the Blockchain will help retailers and consumers later verify the quality and authenticity of the wine.
 
-3. Customs Officers - As the batch of wines has been imported to China, the customs officer will verify the origination of this batch of wine and its quality and authenticity. Custom Officer will later register the information of the current location and transportation details on the Blockchain. 
+3. Customs Officers - As the batch of wines has been imported to China, the Customs Officers will verify the origination of this batch of wine and its quality and authenticity. Customs Officer will later register the information of the current location and transportation details on the Blockchain. 
 
 4. Retailers -  the retailer can capture all the information to ensure the wine is authentic or not by backtracing the wine items from the Blockchain. This allows retailers to improvise their inventory-tracking system and also optimise their payment between members of the supply chain. Winechain's objective is attained, as we would be able to reduce the wine counterfeit issue through transperency of provenance, as well as promote the originator of the product. 
 
