@@ -1,6 +1,6 @@
 
 
-![](Images/logo.jpg)
+![](Images/logo1.jpg)
 
 # Project Three - Blockchain
 
@@ -25,7 +25,7 @@ Our group, WineChain, main objective is to provide an innovative solution using 
 * Retailers (End Users)
 
 
-Using the main feature of Blockchain, which are traceability, security, and decentralisation when dealing with data around the wine supply chain. Transactions that have been carried out will be store to different nodes where all users are able to access and view it, which certainly cereate a  transparent environment that no parties are able to intervene it.
+Using the main feature of Blockchain, which are traceability, security, and decentralisation will certainly benefits the supply chain when dealing with data around it. Transactions that have been carried out will be store to different nodes where all users are able to access and view it, which certainly cereate a  transparent environment that no parties are able to intervene it.
 
 ---
 
