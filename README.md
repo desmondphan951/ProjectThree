@@ -77,3 +77,5 @@ https://docs.google.com/presentation/d/1O9RXw_nOBEApSPTjTWBhRXDkZobvYPJuv-kPtP5X
 * Blockchain technology for supply chains—A must or a maybe?: https://www.mckinsey.com/business-functions/operations/our-insights/blockchain-technology-for-supply-chainsa-must-or-a-maybe
 
 * What are the implications of blockchain technology for food & agriculture?: https://www.linkedin.com/pulse/what-implications-blockchain-technology-agriculture-aidan-connolly/
+
+* What are the Top 5 Challenges in Wine Logistics?: https://medium.com/@Beveragetrade/what-are-the-top-5-challenges-in-wine-logistics-489da39a29fb
