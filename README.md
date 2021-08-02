@@ -50,6 +50,7 @@ The whole process of the wine supply chain is complex, including growing, produc
 
 Further Developments:
 
+* Token: an utility token that can be used in our blockchain 
 * Payment System: a payment system that utilize WineChain token in order to incentivize the stakeholders. 
 
 ---
