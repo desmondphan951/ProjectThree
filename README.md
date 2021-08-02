@@ -50,8 +50,6 @@ The whole process of the wine supply chain is complex, including growing, produc
 
 Further Developments:
 
-* Issuing Token: (TBU)
-
 * Payment System: a payment system that utilize WineChain token in order to incentivize the stakeholders. 
 
 ---
